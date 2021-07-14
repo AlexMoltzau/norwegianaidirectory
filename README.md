@@ -1,5 +1,7 @@
 # The Norwegian AI Directory
 
+*This is a draft repository.*
+
 The Norwegian AI Directory (aidirectory.no) was set up in an effort to create an easily accessible repository of information to help navigate the field of AI in Norway.
 
 This repository on GitHub was set up to share data, code and insight related to this pilot project the Norwegian AI Directory by the Norwegian Artificial Intelligence Research Consortium (NORA). 
